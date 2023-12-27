@@ -1,0 +1,59 @@
+As a prerequisite you need following softwares installed on your machine 
+
+	- Node.js
+	- npm
+	- Angular
+	- Visual Studio Code
+	- Angular Language Service (Plug-in for VS Code)
+	
+	Prerequistes and their compatable versions can be verified from here
+
+	https://unpkg.com/browse/@angular/core@17.0.8/package.json
+
+Node js:
+
+Node is a framework that can run javascript code on your machine.
+
+	Open command prompt and verify current version
+
+		node --version (or) node -v
+		
+	Download Node.js latest version and install manually
+
+		https://nodejs.org/en/download/
+	
+npm:
+
+npm is used to install and uninstall javascript packages which are called node modules.
+
+	Open command prompt and verify current version
+	
+		npm --version 
+			(or)
+		npm -v
+		
+	Type command to install latest version
+	
+		npm install latest-version
+		
+Angular:
+
+	Open command prompt and verify current version by using following command
+		
+		ng version
+		
+	Type command to install latest version
+		
+		npm install -g @angular/cli
+		
+
+	
+
+
+
+	
+
+		
+
+
+	
