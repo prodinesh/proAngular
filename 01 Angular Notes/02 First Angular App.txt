@@ -1,0 +1,18 @@
+My First App:
+
+Open command prompt.
+Create folder and get into the folder.
+Type the following command to create application
+
+	ng new my-first-app --no-strict --standalone false --routing false
+
+Run your application
+
+	ng serve
+	
+If you make any changes to the application it will automatically load the changes in the browser
+until process is running.
+	
+To stop the process
+
+	Ctrl+C
